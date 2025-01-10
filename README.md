@@ -29,7 +29,7 @@ Exploratory data analysis involves visualizing trends in daily listening habits 
 ## Files
 - [DSA 210 Project Report (PDF)](DSA_210_Project_Report.pdf)
 - [Colab Notebook (IPYNB)](dsa210project.ipynb)
-- [README (Markdown)](README.md)
+
 
 ## Detailed Report
 A detailed report explaining the analysis, methodology, and findings can be found [here](DSA_210_Project_Report.pdf).
