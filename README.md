@@ -23,3 +23,8 @@ To analyze the correlation between weather and Spotify listening habits, the pro
 ## Exploratory Data Analysis
 Exploratory data analysis will involve visualizing trends in daily listening habits and weather conditions to identify potential patterns and relationships. Things that will be examined: play counts versus temperature, changes in genre preferences under different weather conditions (upbeat music during sunny days or slow songs during rain). The list of things to be examined can be enriched. 
 To support EDA, visualizations will play a critical role in presenting insights effectively. Line plots and scatter plots will be used to track daily trends in play counts alongside temperature levels. Bar charts and pie charts will illustrate distributions of genres under different weather conditions. 
+
+## Files
+- [DSA 210 Project Report (PDF)](DSA_210_Project_Report.pdf)
+- [Colab Notebook (IPYNB)](dsa210project.ipynb)
+- [README (Markdown)](README.md)
